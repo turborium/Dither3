@@ -1,10 +1,10 @@
-# dither2
+# dither3
 
 Anime dither for real otaku!!! (^_^)
 
 Великолепно работает и собиреаться под LINUX!!! Спасибо Столману за это!  
 
-Загрузить скомпилированный exe-шник для ЛУЧШЕЙ ОС - WINDOWS: https://github.com/crazzzypeter/dither2/raw/main/dither2.exe
+Загрузить скомпилированный exe-шник для ЛУЧШЕЙ ОС - WINDOWS: https://github.com/crazzzypeter/dither3/raw/main/dither2.exe
 
 Windows:  
 ![scr.png](scr.png)  
