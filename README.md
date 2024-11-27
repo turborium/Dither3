@@ -12,4 +12,4 @@ Linux:
 ![scr_pomoyka.png](scr_pomoyka.png)  
 
 
-Powered by Lazarus with Object Pascal Language.
+[Powered By Lazarus (ObjectPascal)](https://www.lazarus-ide.org/)
